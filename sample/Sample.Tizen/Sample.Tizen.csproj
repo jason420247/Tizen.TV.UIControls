@@ -24,6 +24,6 @@
     <PackageReference Include="Tizen.NET" Version="4.0.0">
       <ExcludeAssets>Runtime</ExcludeAssets>
     </PackageReference>
-    <PackageReference Include="Tizen.NET.Sdk" Version="1.0.1" />
+    <PackageReference Include="Tizen.NET.Sdk" Version="1.1.6" />
   </ItemGroup>
 </Project>
